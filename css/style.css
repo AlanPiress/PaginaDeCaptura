@@ -18,3 +18,29 @@ body{
     background-size: cover;
 }
 
+form.card{
+    width: 400px;
+    background: rgba(221, 247, 253, 0.8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    border-radius: 8px;
+    padding: 32px;
+}
+
+.text h1{
+    margin-bottom: 15px;
+}
+
+h1 span{
+    color:#00ac69;
+}
+
+p{
+    margin-bottom: 15px;
+    font-weight: 500;
+    font-size: larger;
+}
+
