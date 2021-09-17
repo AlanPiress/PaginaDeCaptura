@@ -1,6 +1,6 @@
 ## Projeto
 
-Página de captura desenvolvida para praticar HTML e CSS
+Desenvolvimento Front-end de uma página de captura.
 
 ## Tecnologias Utilizadas:
 * HTML
