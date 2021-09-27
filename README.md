@@ -1,5 +1,4 @@
 ## Projeto
-
 Desenvolvimento Front-end de uma página de captura.
 
 ## Tecnologias Utilizadas:
@@ -7,5 +6,4 @@ Desenvolvimento Front-end de uma página de captura.
 * CSS
 
 ## Projeto final:
-
 <img src="img/ProjetoFinal.png">
